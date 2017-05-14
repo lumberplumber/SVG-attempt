@@ -1,0 +1,31 @@
+<html>
+  <head>
+  <title>Svg atempt</title>
+  </head>
+<body>
+
+<h1>( u v u)</h1>
+
+<p>
+<svg width="200" height="155">
+   <circle cx="100" cy="100" r="50" stroke="black" stroke-width="5" fill="green" />
+</svg>
+(_)_)::::::::::::::::::D
+</p>
+
+<p>
+<svg width="200" height="155">
+   <circle cx="100" cy="100" r="50" stroke="black" stroke-width="5" fill="yellow" />
+</svg>
+(_)_):::::::D
+</p>
+
+<p>
+<svg width="200" height="155">
+   <circle cx="100" cy="100" r="50" stroke="black" stroke-width="5" fill="red" />
+</svg>
+(_)_):D
+</p>
+
+</body>
+</html>
